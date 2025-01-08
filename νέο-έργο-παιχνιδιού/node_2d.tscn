@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://yvw5ldr7h4f4"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Node2D" type="Node2D" parent="."]
+position = Vector2(29, 38)
+
+[node name="Node2D" type="Node2D" parent="Node2D"]
+position = Vector2(55, 57)
